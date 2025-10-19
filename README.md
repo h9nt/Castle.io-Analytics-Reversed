@@ -122,5 +122,3 @@
 }
 
 ```
-
-# Yep that's all, not hard if u have some basic knowledge LMAO, if u wan't test the script, dms me on telegram: [https://t.me/mssdk]
